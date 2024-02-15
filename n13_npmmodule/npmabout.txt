@@ -1,0 +1,4 @@
+1)npm init ==npm initialize  pakage.json install
+2)chalk == it is module for style like color bgcolor under fontstyle and give error
+3)nodemon== it is used to running code live install first npm init and nodemodule and nodemon then use
+
